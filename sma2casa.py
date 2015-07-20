@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/opt/local/bin/python
 """
 sma2casa.py
 ===========
